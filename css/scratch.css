@@ -1,0 +1,53 @@
+body {
+    background-image: url(https://www.creativefabrica.com/wp-content/uploads/2023/05/19/Pale-Pink-Brown-Cream-Nebula-Background-Graphic-70023636-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: large;
+}
+
+img {
+    border: 2px solid black;
+    padding: 2px;
+    width: 100%;
+}
+
+.centerme {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ol{
+    background-color: rgba(188, 143, 143, 0.155);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.common {
+    position: absolute;
+}
+
+.footer {
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color:rosybrown;
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header{
+    top: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mainbody{
+    top: 875px
+    
+}
